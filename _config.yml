@@ -4,7 +4,7 @@ email: zzhao1@tulane.edu
 description: > # this means to ignore newlines until "baseurl:"
   "Zhao Shi Fu's  Blog"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://zhaoshifu.org" # the base hostname & protocol for your site
+url: "https://zbxnzs1990.github.io/zhao-shi-fu/" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Zhao Shi Fu
 twitter:
