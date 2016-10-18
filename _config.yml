@@ -32,7 +32,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-54767140-2
-  url: zhaoshifu.org
+  url: https://zbxnzs1990.github.io/zhao-shi-fu/
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
