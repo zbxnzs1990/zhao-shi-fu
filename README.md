@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[https://zbxnzs1990.github.io/MBB/](https://zbxnzs1990.github.io/MBB/)
+地址：[zhaoshifu](https://zbxnzs1990.github.io/zhao-shi-fu/)
 
 ### 安装说明
 
